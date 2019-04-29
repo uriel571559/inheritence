@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=drillpunch
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ drillpunch\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name\ damage\ parryChance
+comment1.target=drillpunch(java.lang.String,\ int,\ double)
+numComments=2
